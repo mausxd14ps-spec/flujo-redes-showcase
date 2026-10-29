@@ -63,3 +63,8 @@ Panel privado para publicar contenido en redes sociales sin abrir cada app. Sube
 ## Qué aprendí
 
 Leer los errores reales de una API externa en vez de adivinar, diseñar alrededor de los límites de una plataforma serverless, y cuidar la seguridad desde el principio (claves, accesos y verificación en dos pasos).
+
+
+## Contacto
+Gabriel · Isla de Margarita, Venezuela
+Instagram: @tu_usuario · Correo: tu_correo_de_trabajo
