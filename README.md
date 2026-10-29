@@ -67,4 +67,4 @@ Leer los errores reales de una API externa en vez de adivinar, diseñar alrededo
 
 ## Contacto
 Gabriel · Isla de Margarita, Venezuela
-Instagram: @tu_usuario · Correo: tu_correo_de_trabajo
+Instagram: @mauss14 · Correo: maus.xd14ps@gmail.com
