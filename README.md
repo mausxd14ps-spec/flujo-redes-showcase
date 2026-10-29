@@ -2,6 +2,14 @@
 
 Panel privado para publicar contenido en redes sociales sin abrir cada app. Subes un video, escribes (o dictas) la descripción y eliges si publicar ahora o programar. Las publicaciones programadas salen solas, aunque mi computadora esté apagada.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/737f2622-5c4a-4062-855b-8b609a7b159d
+
+
+
 > Proyecto personal de aprendizaje, desplegado en producción y usado en mi propia cuenta. Hoy solo **Instagram Reels** está conectado y probado.
 
 <img width="1902" height="865" alt="image" src="https://github.com/user-attachments/assets/3b19d160-9e94-453a-b97c-b09f45a4a044" />
