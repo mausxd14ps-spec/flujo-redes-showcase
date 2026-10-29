@@ -4,8 +4,12 @@ Panel privado para publicar contenido en redes sociales sin abrir cada app. Sube
 
 > Proyecto personal de aprendizaje, desplegado en producción y usado en mi propia cuenta. Hoy solo **Instagram Reels** está conectado y probado.
 
-<!-- Agrega aquí 2 o 3 capturas: panel principal, lista de publicaciones, pantalla de conexiones -->
-<!-- ![Panel principal](docs/panel.png) -->
+<img width="1902" height="865" alt="image" src="https://github.com/user-attachments/assets/3b19d160-9e94-453a-b97c-b09f45a4a044" />
+<img width="1896" height="857" alt="image" src="https://github.com/user-attachments/assets/4d46fdbd-e55c-404b-886b-7b9e43736495" />
+<img width="1896" height="861" alt="image" src="https://github.com/user-attachments/assets/59380730-d3d7-4b91-b60b-fbf969445cb0" />
+
+
+
 
 ## Qué hace
 
