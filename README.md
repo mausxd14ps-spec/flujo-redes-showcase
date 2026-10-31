@@ -77,4 +77,4 @@ Leer los errores reales de una API externa en vez de adivinar, diseñar alrededo
 Gabriel · Isla de Margarita, Venezuela
 Instagram: @mauss14 · Correo: maus.xd14ps@gmail.com
 
-Mira mi portafolio: [maus-xd.netlify.app](maus-xd.netlify.app)
+Mira mi portafolio: [maus-xd.netlify.app](https://maus-xd.netlify.app/)
